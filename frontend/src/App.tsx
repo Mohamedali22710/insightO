@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { Toaster, toast } from 'sonner'
-import { Button } from '@/components/ui/button'
-import { ThemeToggle } from '@/components/ui/ThemeToggle'
-import { Modal } from '@/components/ui/Modal'
+import { Button } from '@/shared/components/ui/button'
+import { ThemeToggle } from '@/shared/components/ui/ThemeToggle'
+import { Modal } from '@/shared/components/ui/Modal'
 
 // ─── Dev Showcase (remove when building real features) ─────────────────────── للتست مش اكتر حاجات جلوبال الل هنستخدمها فى كل حتة يا امبيسا 
 
